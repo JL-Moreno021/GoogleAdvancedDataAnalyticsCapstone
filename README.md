@@ -1,6 +1,6 @@
 # Google Advanced Data Analytics Capstone
 
-<div align='center', style="font-size: 48px"> <strong>Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification<strong> </div>
+<div align='center', style="font-size: 32px"> <strong>Predictive Workforce Analytics: An XGBoost Model for Employee Attrition Identification<strong> </div>
 
 ## Overview
 ### The Company: Salifort Motors
